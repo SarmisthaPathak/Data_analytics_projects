@@ -1,4 +1,4 @@
-# 🚀 2025 - Data Analytics Projects
+# 🚀 Data Analytics Projects
 
 Welcome to my GitHub repository! This collection showcases my expertise in **Data Analytics** through various real-world-inspired case studies, primarily completed during my time at **WBS Coding School (Dec 2024 - Mar 2025)**. These projects highlight my ability to work with **SQL**, **Python**, and essential data analysis libraries, as well as **BI tools** like Tableau, Google Looker Studio, and Power BI.
 
